@@ -11,7 +11,7 @@ This mod eleganty bypasses this restriction by monkey-patching the UI rendering 
 ## Installation
 
 ### Steam Workshop
-*(Link to Steam Workshop item here once published)*
+https://steamcommunity.com/sharedfiles/filedetails/?id=3682407465
 
 ### Manual Installation
 1. Clone or download this repository.
