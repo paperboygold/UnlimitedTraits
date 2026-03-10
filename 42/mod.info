@@ -1,0 +1,8 @@
+name=Unlimited Traits
+id=UnlimitedTraits
+description=Removes the point restrictions in the character creation screen, allowing you to select any combination of positive or negative traits and still proceed.
+poster=poster.png
+author=Paperboy
+modversion=1.0
+pzversion=42.15.0
+icon=ut_icon.png
